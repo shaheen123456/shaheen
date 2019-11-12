@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-11T16:52:33Z" name="Default suite" finished-at="2019-11-11T16:53:12Z" duration-ms="39221">
+    <groups>
+    </groups>
+    <test started-at="2019-11-11T16:52:33Z" name="Default test" finished-at="2019-11-11T16:53:12Z" duration-ms="39221">
+      <class name="com.hrms.testscript.Tc_101">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.hrms.testscript.Tc_101@3ec300f1]" started-at="2019-11-11T22:22:33Z" name="startup" finished-at="2019-11-11T22:22:59Z" duration-ms="25961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="Login()[pri:0, instance:com.hrms.testscript.Tc_101@3ec300f1]" started-at="2019-11-11T22:22:59Z" name="Login" finished-at="2019-11-11T22:23:08Z" duration-ms="9272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.hrms.testscript.Tc_101@3ec300f1]" started-at="2019-11-11T22:23:08Z" name="teardown" finished-at="2019-11-11T22:23:12Z" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrms.testscript.Tc_101 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
